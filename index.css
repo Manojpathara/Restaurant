@@ -1,0 +1,22 @@
+
+.head-bar{
+    width: 100%;
+    position: fixed;
+    z-index: 999;
+}
+
+
+img.slider{
+    height: 650px;
+}
+img.card-img-top {
+    height: 14rem;
+}
+.header{
+    font-size: 2rem;
+    margin-left: 1rem;
+}
+header.header {
+
+    margin-bottom: -3rem;
+}
